@@ -59,7 +59,7 @@ class Game(object):
         self.show()
         print(self.result())
 
-first_game = Game()
-first_game.play()
+# first_game = Game()
+# first_game.play()
 
 
